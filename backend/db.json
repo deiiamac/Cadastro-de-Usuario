@@ -2,13 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Andreia Gamarros",
-      "email": "agamarros@cod3r.com.br"
-    },
-    {
-      "id": 2,
-      "name": "Felipe Bittencourt",
-      "email": "fbittencourt@bittimac.com.br"
+      "name": "Andreia Macedo",
+      "email": "teste@live.com"
     }
   ]
 }
