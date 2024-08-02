@@ -1,12 +1,8 @@
 ## 1° passo
-`cd backend`
-<br><br>
-
-## 2° passo
-Instalar as dependências
+Instalar as dependências:
 `npm install`
 <br><br>
 
-## 3° passo
-Abrir o projeto
+## 2° passo
+Abrir o projeto:
 `npm start`
